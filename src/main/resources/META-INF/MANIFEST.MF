@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Premain-Class: xxxx.MyAgent
+Agent-Class: xxxx.MyAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Main-Class: xxxx.Main
+Permissions: all-permissions
+
